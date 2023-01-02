@@ -1,1 +1,2 @@
-# 6companies30daysCh
+# 6companies30daysChallenge
+
